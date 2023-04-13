@@ -9,14 +9,14 @@ Installing
 
 .. code-block:: bash
 
-    pip install mofikhatun530-checksum
+    pip install mofikhatunchecksum
 
 Usage
 =====
 
 .. code-block:: bash
 
-    >>> from web3_checksum.get_checksum_address import get_checksum_address
+    >>> from mofikhatunchecksum.get_checksum_address import get_checksum_address
     >>> get_checksum_address(private_key='YOUr PRIVATE KEY')
     >>> get_checksum_address(address='YOUR ADDRESS')
     >>> get_checksum_address(account='YOUR ACCOUNT')

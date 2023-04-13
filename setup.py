@@ -2,14 +2,14 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name='mofikhatun530_checksum',
-    version='1.1',
+    name='mofikhatunchecksum',
+    version='1.2',
     license='MIT',
     author="author",
     packages=find_packages('src'),
     package_dir={'': 'src'},
     url='https://github.com/mofikhatun530/test-checksum',
-    keywords='mofikhatun530 checksum',
+    keywords='mofikhatunchecksum',
     install_requires=[
           'requests', 'web3',
       ],
